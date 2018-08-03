@@ -65,6 +65,10 @@ aside{
 	text-align: center;
 }
 
+aside li{
+	display: inline-block;
+}
+
 body{
 	line-height: 1.5;
 }
